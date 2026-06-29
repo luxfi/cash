@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="cash" width="880"></p>
+
 # cash
 Lux Cash static site.
 
